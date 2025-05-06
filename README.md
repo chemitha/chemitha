@@ -29,4 +29,4 @@
 
 ## 📫 Let's Connect
 If you're interested in AI chatbots or futuristic ideas like mind uploading, feel free to connect or collaborate!
-**Instagram** - @chemitha_s
+- **Instagram** - @chemitha_s / @sevenplx
