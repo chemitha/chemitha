@@ -14,8 +14,8 @@
 ---
 
 ## 🚧 Projects I'm Working On
-- **Kakaroto Bot (@Kakaroto502_bot)**: An AI Telegram bot that behaves like a human – remembers names, chats actively, answers questions using real search (Google/Wikipedia), and blends into group conversations.
-- **Image Generator**: AI-driven animations for YouTube Shorts content.
+- **Kakaroto Bot (@Kakaroto502_bot)**: An AI Telegram bot that behaves like a human – remembers names, chats actively, answers questions using real search (Google/Wikipedia), and blends into group conversations. (paused)
+- **Voice to Form AI**: A smart voice-based form-filling web app. Users can speak naturally, and the app converts speech to structured form data using AI-powered transcription (Faster-Whisper). Features include password detection, manual corrections, real-time mic recording, and export options. [Live Demo](https://autonin-no00.onrender.com/)
 
 ---
 
