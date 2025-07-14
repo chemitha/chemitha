@@ -30,3 +30,8 @@
 ## 📫 Let's Connect
 If you're interested in AI chatbots or futuristic ideas like mind uploading, feel free to connect or collaborate!
 - **Instagram** - @chemitha_s / [@sevenplx](instagram.com/sevenplx)
+
+### 👁️ Profile Views
+
+![](https://komarev.com/ghpvc/?username=Sevenplx&color=green)
+![Visits](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FSevenplx.github.io%2Fvisits)
