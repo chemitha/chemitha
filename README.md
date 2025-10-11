@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sevenplx (Chemitha)!
+# 👋 Hi, I'm Chemitha Sathsilu (Sevenplx)!
 
 🎓 I'm an AI student, passionate about exploring how technology intersects with consciousness, AI, and digital mind uploading.  
 🤖 I'm currently building a Telegram chatbot called **Kakaroto** – a human-like AI that chats naturally in groups, responds smartly when mentioned, and even simulates thinking delays.  
@@ -29,6 +29,7 @@
 
 ## 📫 Let's Connect
 If you're interested in AI chatbots or futuristic ideas like mind uploading, feel free to connect or collaborate!
+- **Portfolio** - [https://chemithasathsilu.onrender.com/](https://chemithasathsilu.onrender.com/)
 - **Instagram** - @chemitha_s / [@sevenplx](instagram.com/sevenplx)
 
 ### 👁️ Profile Views
