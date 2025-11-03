@@ -1,7 +1,7 @@
 # Hi, I'm Chemitha Sathsilu (Sevenplx) 👋
 
 AI enthusiast exploring **technology, consciousness, and digital mind uploading**.  
-Currently building **Gim AI**, a no-code chatbot creator for web apps.
+Currently building **Gim AI**, a no-code chatbot creator for web apps.(SaaS)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sevenplx&color=green)]()
 ![Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FSevenplx.github.io%2Fvisits)
@@ -21,8 +21,8 @@ AI & NLP | Human-like AI | Automation | Digital Immortality | Chatbots | Voice I
 ---
 
 ## 🔹 Projects
-- **Gim AI** ![WIP](https://img.shields.io/badge/-WIP-FC5185?style=flat) – Solo-built chatbot with memory & pseudo-consciousness. For creators, small businesses, and websites.  
-- **Voice to Form AI** ![Live](https://img.shields.io/badge/-Live-4CAF50?style=flat) – Speech-to-form web app with transcription, password detection, and export. [Demo](https://autonin.onrender.com/)  
+- **Gim AI** ![WIP](https://img.shields.io/badge/-WIP-FC5185?style=flat) – Solo-built a SaaS chatbot platform with memory and pseudo-consciousness, designed for creators, small businesses, and web applications. 
+- **Voice to Form AI** ![Live](https://img.shields.io/badge/-Live-4CAF50?style=flat) – Speech-to-form web app with transcription, password detection, and export. [Live Demo](https://autonin.onrender.com/)  
 - **Kakaroto Bot (@Kakaroto502_bot)** ![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat) – Human-like Telegram bot for group chats *(Paused)*  
 
 ---
