@@ -21,7 +21,7 @@ AI & NLP | Human-like AI | Automation | Digital Immortality | Chatbots | Voice I
 ---
 
 ## 🔹 Projects
-- **Gim AI** ![WIP](https://img.shields.io/badge/-WIP-FC5185?style=flat) – Solo-built a SaaS chatbot platform with memory and pseudo-consciousness, designed for creators, small businesses, and web applications. 
+- **Gim AI** ![WIP](https://img.shields.io/badge/-WIP-FC5185?style=flat) – Solo-built a SaaS chatbot platform with memory and pseudo-consciousness, designed for creators, small businesses, and web applications. (Sep 2025 - )
 - **Voice to Form AI** ![Live](https://img.shields.io/badge/-Live-4CAF50?style=flat) – Speech-to-form web app with transcription, password detection, and export. [Live Demo](https://autonin.onrender.com/)  
 - **Kakaroto Bot (@Kakaroto502_bot)** ![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat) – Human-like Telegram bot for group chats *(Paused)*  
 
