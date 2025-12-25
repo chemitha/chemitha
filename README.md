@@ -46,3 +46,5 @@ AI & NLP | Human-like AI | Automation | Digital Immortality | Chatbots | Voice I
 ---
 
 💡 **Fun Fact:** I love building AI that feels human, experimenting with digital mind uploading concepts, and creating tools that merge tech and consciousness.
+
+<meta name="google-site-verification" content="1IcLBNKtx5QDQL7subryoZMmdlieoM8SwNfXQNuskSM" />
