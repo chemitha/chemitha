@@ -1,4 +1,4 @@
-# Hi, I'm Chemitha Sathsilu (Sevenplx) 👋
+<h1>Hi, I'm Chemitha Sathsilu (Sevenplx) <a href="https://emoji.gg/emoji/1344-wave"><img src="https://cdn3.emoji.gg/emojis/1344-wave.gif" width="35px" height="35px" alt="wave"></a></h1>
 
 AI enthusiast exploring **technology, consciousness, and digital mind uploading**.  
 Currently building **Gim AI**, a no-code chatbot creator for web apps.(SaaS)
@@ -8,26 +8,28 @@ Currently building **Gim AI**, a no-code chatbot creator for web apps.(SaaS)
 
 ---
 
-## 🔹 About Me
+<h2><img src="https://cdn.discordapp.com/emojis/1057946941150986260.gif" width="18" align="center"> About Me </h2>
 - Passionate about AI that feels human, consciousness research, and digital immortality.  
 - Exploring automation and human-like behavior in AI systems.  
 - Building practical AI tools for creators, businesses, and developers.
 
 ---
 
-## 🔹 Interests
+<h2><img src="https://cdn.discordapp.com/emojis/1057946941150986260.gif" width="18" align="center"> Interests </h2>
 AI & NLP | Human-like AI | Automation | Digital Immortality | Chatbots | Voice Interfaces
 
 ---
 
-## 🔹 Projects
+<h2><img src="https://cdn.discordapp.com/emojis/1057946941150986260.gif" width="18" align="center"> Projects </h2>
+
 - **Gim AI** ![WIP](https://img.shields.io/badge/-WIP-FC5185?style=flat) – Solo-built a SaaS chatbot platform with memory and pseudo-consciousness, designed for creators, small businesses, and web applications. (Sep 2025 - )
-- **Voice to Form AI** ![Live](https://img.shields.io/badge/-Live-4CAF50?style=flat) – Speech-to-form web app with transcription, password detection, and export. [Live Demo](https://autonin.onrender.com/)  
+- **Voice to Form AI** | <a href="https://emoji.gg/emoji/23588-live"><img src="https://cdn3.emoji.gg/emojis/23588-live.gif" width="40px" height="40px" align="center" alt="live"></a> – Speech-to-form web app with transcription, password detection, and export. [Live Demo](https://autonin.onrender.com/)  
 - **Kakaroto Bot (@Kakaroto502_bot)** ![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat) – Human-like Telegram bot for group chats *(Paused)*  
 
 ---
 
-## 🔹 Tech Stack
+<h2><img src="https://cdn.discordapp.com/emojis/1057946941150986260.gif" width="18" align="center"> Tech Stack</h2>
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -40,11 +42,12 @@ AI & NLP | Human-like AI | Automation | Digital Immortality | Chatbots | Voice I
 
 ---
 
-## 🔹 Connect
+<h2><img src="https://cdn.discordapp.com/emojis/1057946941150986260.gif" width="18" align="center"> Connect </h2>
+
 [Portfolio](https://chemithasathsilu.onrender.com/) | [Instagram @sevenplx](https://instagram.com/sevenplx)  
 
 ---
 
-💡 **Fun Fact:** I love building AI that feels human, experimenting with digital mind uploading concepts, and creating tools that merge tech and consciousness.
+<a href="https://emoji.gg/emoji/539242-lightblueheartcoin"><img src="https://cdn3.emoji.gg/emojis/539242-lightblueheartcoin.gif" width="22" height="22" alt="Lightblueheartcoin" align="center"></a> **Fun Fact:** I love building AI that feels human, experimenting with digital mind uploading concepts, and creating tools that merge tech and consciousness.
 
 <meta name="google-site-verification" content="1IcLBNKtx5QDQL7subryoZMmdlieoM8SwNfXQNuskSM" />
