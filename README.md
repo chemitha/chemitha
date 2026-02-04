@@ -22,9 +22,9 @@ AI & NLP | Human-like AI | Automation | Digital Immortality | Chatbots | Voice I
 
 <h2><img src="https://cdn.discordapp.com/emojis/1057946941150986260.gif" width="18" align="center"> Projects </h2>
 
-- **Vortasky** ![WIP](https://img.shields.io/badge/-WIP-FC5185?style=flat) – AI-powered platform that detects and recovers lost revenue in real time. Designed for businesses to prevent overdue invoices, failed payments, and revenue gaps. (Dec 2025 - ) [Demo/Waitlist link](https://www.vortasky-ai.vercel.app)
+- **Vortasky** | ![WIP](https://img.shields.io/badge/-WIP-FC5185?style=flat) – AI-powered platform that detects and recovers lost revenue in real time. Designed for businesses to prevent overdue invoices, failed payments, and revenue gaps. (Dec 2025 - ) [Demo/Waitlist link](https://www.vortasky-ai.vercel.app)
 - **Voice to Form AI** | ![Live](https://img.shields.io/badge/-Live-CBFF1?style=flat) – Speech-to-form web app with transcription, password detection, and export. [Live Demo](https://autonin.onrender.com/)  
-- **Kakaroto Bot (@Kakaroto502_bot)** ![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat) – Human-like Telegram bot for group chats *(Paused)*  
+- **Kakaroto Bot (@Kakaroto502_bot)** | ![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat) – Human-like Telegram bot for group chats *(Paused)*  
 
 ---
 
