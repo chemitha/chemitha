@@ -1,7 +1,7 @@
 <h1>Hi, I'm Chemitha Sathsilu (Sevenplx) <a href="https://emoji.gg/emoji/1344-wave"><img src="https://cdn3.emoji.gg/emojis/1344-wave.gif" width="35px" height="35px" alt="wave"></a></h1>
 
 AI enthusiast exploring **technology, consciousness, and digital mind uploading**.  
-Currently building **Gim AI**, a no-code chatbot creator for web apps.(SaaS)
+Currently building **Vortasky**, a platform to detect and recover revenue leaks for businesses. (SaaS)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sevenplx&color=green)]()
 ![Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FSevenplx.github.io%2Fvisits)
@@ -22,7 +22,7 @@ AI & NLP | Human-like AI | Automation | Digital Immortality | Chatbots | Voice I
 
 <h2><img src="https://cdn.discordapp.com/emojis/1057946941150986260.gif" width="18" align="center"> Projects </h2>
 
-- **Gim AI** ![WIP](https://img.shields.io/badge/-WIP-FC5185?style=flat) – Solo-built a SaaS chatbot platform with memory and pseudo-consciousness, designed for creators, small businesses, and web applications. (Sep 2025 - )
+- **Vortasky** ![WIP](https://img.shields.io/badge/-WIP-FC5185?style=flat) – AI-powered platform that detects and recovers lost revenue in real time. Designed for businesses to prevent overdue invoices, failed payments, and revenue gaps. (Dec 2025 - ) [Demo/Waitlist link](https://www.vortasky-ai.vercel.app)
 - **Voice to Form AI** | <a href="https://emoji.gg/emoji/23588-live"><img src="https://cdn3.emoji.gg/emojis/23588-live.gif" width="40px" height="40px" align="center" alt="live"></a> – Speech-to-form web app with transcription, password detection, and export. [Live Demo](https://autonin.onrender.com/)  
 - **Kakaroto Bot (@Kakaroto502_bot)** ![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat) – Human-like Telegram bot for group chats *(Paused)*  
 
@@ -39,6 +39,7 @@ AI & NLP | Human-like AI | Automation | Digital Immortality | Chatbots | Voice I
 ![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram&logoColor=white)
 ![AI](https://img.shields.io/badge/-AI-FC5185?style=flat)
 ![Shell](https://img.shields.io/badge/-Shell-121011?style=flat&logo=gnu-bash&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
