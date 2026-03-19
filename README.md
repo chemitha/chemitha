@@ -9,6 +9,7 @@ Currently building **Vortasky**, a platform to detect and recover revenue leaks 
 ---
 
 <h2><img src="https://cdn.discordapp.com/emojis/1057946941150986260.gif" width="18" align="center"> About Me </h2>
+
 - Passionate about AI that feels human, consciousness research, and digital immortality.  
 - Exploring automation and human-like behavior in AI systems.  
 - Building practical AI tools for creators, businesses, and developers.
