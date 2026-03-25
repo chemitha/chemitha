@@ -49,6 +49,6 @@ B2B SaaS | AI Decision Engines | Revenue Operations | Fintech | Automation Syste
 
 ---
 
-<a href="https://emoji.gg/emoji/539242-lightblueheartcoin"><img src="https://cdn3.emoji.gg/emojis/539242-lightblueheartcoin.gif" width="22" height="22" alt="Lightblueheartcoin" align="center"></a> **Fun Fact:** I’m obsessed with high-end SaaS aesthetics and building systems that run at 90% automation. 
+<a href="https://emoji.gg/emoji/539242-lightblueheartcoin"><img src="https://cdn3.emoji.gg/emojis/539242-lightblueheartcoin.gif" width="22" height="22" alt="Lightblueheartcoin" align="center"></a> **Fun Fact:** I find that the most valuable insights exist in the "blind spots" that others dismiss as too simple or too difficult.
 
 <meta name="google-site-verification" content="1IcLBNKtx5QDQL7subryoZMmdlieoM8SwNfXQNuskSM" />
