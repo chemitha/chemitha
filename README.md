@@ -49,6 +49,6 @@ B2B SaaS | AI Decision Engines | Revenue Operations | Fintech | Automation Syste
 
 ---
 
-<a href="https://emoji.gg/emoji/539242-lightblueheartcoin"><img src="https://cdn3.emoji.gg/emojis/539242-lightblueheartcoin.gif" width="22" height="22" alt="Lightblueheartcoin" align="center"></a> **Fun Fact:** I find that the most valuable insights exist in the "blind spots" that others dismiss as too simple or too difficult.
+<a href="https://emoji.gg/emoji/539242-lightblueheartcoin"><img src="https://cdn3.emoji.gg/emojis/539242-lightblueheartcoin.gif" width="22" height="22" alt="Lightblueheartcoin" align="center"></a> **Fun Fact:** My brain naturally deconstructs every business model I encounter into its core variables. I’m more interested in the invisible architecture than the visible UI.
 
 <meta name="google-site-verification" content="1IcLBNKtx5QDQL7subryoZMmdlieoM8SwNfXQNuskSM" />
