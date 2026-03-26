@@ -24,7 +24,7 @@ B2B SaaS | AI Decision Engines | Revenue Operations | Fintech | Automation Syste
 
 <h2><img src="https://cdn.discordapp.com/emojis/1057946941150986260.gif" width="18" align="center"> Projects </h2>
 
-- **Vortasky** | ![WIP](https://img.shields.io/badge/-WIP-FC5185?style=flat) – Automated Revenue Recovery Engine that **detects** revenue leaks and failed payments in real-time. Helping businesses recover lost earnings with a single click. [vortasky-ai.vercel.app](https://vortasky-ai.vercel.app)
+- **Vortasky** | ![WIP](https://img.shields.io/badge/-WIP-FC5185?style=flat) – Automated Revenue Recovery Engine that **detects** revenue leaks and failed payments in real-time. Helping businesses recover lost earnings with a single click. [vortasky.vercel.app](https://vortasky.vercel.app)
 - **WaitlistBuilder** | ![Open Source](https://img.shields.io/badge/-OSS-blue?style=flat) – A high-end, minimalist landing page engine for indie founders to validate products fast. [OSS Repo](https://github.com/Sevenplx/waibee)
 - **Voice to Form AI** | ![Live](https://img.shields.io/badge/-Live-CBFF1?style=flat) – Speech-to-structured-data utility for rapid data entry and transcription. [Live Demo](https://autonin.onrender.com/)  
 
