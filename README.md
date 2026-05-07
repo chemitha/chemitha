@@ -54,4 +54,4 @@
 
 ---
 
-<a href="https://emoji.gg/emoji/539242-lightblueheartcoin"><img src="https://cdn3.emoji.gg/emojis/539242-lightblueheartcoin.gif" width="22" height="22" alt="Lightblueheartcoin"></a> **Fun Fact:** My brain instinctively deconstructs every business model into its core variables.
+<!-- <a href="https://emoji.gg/emoji/539242-lightblueheartcoin"><img src="https://cdn3.emoji.gg/emojis/539242-lightblueheartcoin.gif" width="22" height="22" alt="Lightblueheartcoin"></a> **Fun Fact:** My brain instinctively deconstructs every business model into its core variables. -->
