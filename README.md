@@ -52,6 +52,4 @@
 [![X / Twitter](https://img.shields.io/badge/X/Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/sevenplx)
 [![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=flat&logo=instagram&logoColor=white)](https://instagram.com/sevenplx)
 
----
-
 <!-- <a href="https://emoji.gg/emoji/539242-lightblueheartcoin"><img src="https://cdn3.emoji.gg/emojis/539242-lightblueheartcoin.gif" width="22" height="22" alt="Lightblueheartcoin"></a> **Fun Fact:** My brain instinctively deconstructs every business model into its core variables. -->
