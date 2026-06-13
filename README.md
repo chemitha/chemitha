@@ -27,9 +27,9 @@
 
 | Project | Status | Description | Links |
 |---------|--------|-------------|-------|
-| **Vortasky** | ![WIP](https://img.shields.io/badge/-WIP-FC5185?style=flat) | AI-powered revenue recovery engine that detects leaks and failed payments in real-time | [Live](https://vortasky.com) |
-| **WaitlistBuilder** | ![OSS](https://img.shields.io/badge/-OSS-blue?style=flat) | Minimalist, high-converting landing page engine for indie founders | [Repo](https://github.com/Sevenplx/waitbee) |
-| **Voice to Form AI** | ![Live](https://img.shields.io/badge/-Live-CBFF1?style=flat) | Speech-to-structured-data utility for instant data entry | [Demo](https://autonin.onrender.com/) |
+| <img width="14" src="https://vortasky.com/icons/white_logo.svg"> **Vortasky** | ![WIP](https://img.shields.io/badge/-WIP-FC5185?style=flat) | Revenue recovery engine that detects leaks and failed payments in real-time | [Live](https://vortasky.com) |
+| **WaitBee** | ![OSS](https://img.shields.io/badge/-OSS-blue?style=flat) | Launch a viral waitlist, collect emails, and track growth with ease | [Repo](https://github.com/Sevenplx/waitbee) |
+| <img width="14" src="https://github.com/chemitha/AtticNote/blob/main/public/logo_curved.svg"> **AtticNote** | ![Live](https://img.shields.io/badge/-Live-CBFF1?style=flat) | A Personal lightweight workspace for notes, ideas, and files to access anywhere | [Demo](https://autonin.onrender.com/) |
 
 ---
 
